@@ -22,6 +22,7 @@ func GetUserInfo(ctx context.Context, c *app.RequestContext) {
 	}
 
 	resp := new(hertz_demo.GetUserInfoResp)
+	resp.UUID = req.UUID
 
 	c.JSON(consts.StatusOK, resp)
 }
