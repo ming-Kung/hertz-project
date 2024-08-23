@@ -3,8 +3,8 @@
 package main
 
 import (
+	router "code.byted.org/motor/hertz-project/biz/router"
 	"github.com/cloudwego/hertz/pkg/app/server"
-	router "gmtest/project/hertz/biz/router"
 )
 
 // register registers all routers.

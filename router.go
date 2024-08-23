@@ -3,8 +3,8 @@
 package main
 
 import (
+	handler "code.byted.org/motor/hertz-project/biz/handler"
 	"github.com/cloudwego/hertz/pkg/app/server"
-	handler "gmtest/project/hertz/biz/handler"
 )
 
 // customizeRegister registers customize routers.
