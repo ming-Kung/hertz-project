@@ -5,9 +5,9 @@ package hertz_demo
 import (
 	"context"
 
-	hertz_demo "code.byted.org/motor/hertz-project/biz/model/hertz_demo"
 	"github.com/cloudwego/hertz/pkg/app"
 	"github.com/cloudwego/hertz/pkg/protocol/consts"
+	hertz_demo "hertz-project/biz/model/hertz_demo"
 )
 
 // GetUserInfo .

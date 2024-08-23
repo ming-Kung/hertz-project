@@ -1,4 +1,4 @@
-module code.byted.org/motor/hertz-project
+module hertz-project
 
 go 1.22.6
 

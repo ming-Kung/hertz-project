@@ -3,7 +3,7 @@
 package router
 
 import (
-	hertz_demo "code.byted.org/motor/hertz-project/biz/router/hertz_demo"
+	hertz_demo "hertz-project/biz/router/hertz_demo"
 	"github.com/cloudwego/hertz/pkg/app/server"
 )
 

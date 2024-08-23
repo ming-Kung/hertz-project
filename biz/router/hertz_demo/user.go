@@ -3,7 +3,7 @@
 package hertz_demo
 
 import (
-	hertz_demo "code.byted.org/motor/hertz-project/biz/handler/hertz_demo"
+	hertz_demo "hertz-project/biz/handler/hertz_demo"
 	"github.com/cloudwego/hertz/pkg/app/server"
 )
 
